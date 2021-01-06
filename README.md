@@ -3,7 +3,9 @@ Demonstrating the powerful life-saving potential of modern computer vision techn
 
 
   
-  ![Figure 7](https://user-images.githubusercontent.com/52629191/103778959-f2f62c00-502a-11eb-896a-ed06d7cabf8b.png)
+<p align="center">
+  <img src="https://github.com/dr271/Drowsy-Driver-Prevention/blob/main/Readme%20Images/Figure%207.png">
+</p>
 
 <p align="center">
   <img src="https://github.com/dr271/Drowsy-Driver-Prevention/blob/main/Readme%20Images/Alarm%20Triggered.png">
@@ -14,6 +16,7 @@ The program functions by using a Histogram of Gradients (HOG) descriptors as fea
 
 <p align="center">
   <img src="https://github.com/dr271/Drowsy-Driver-Prevention/blob/main/Readme%20Images/EARFormula.png">
+  
   <img src="https://github.com/dr271/Drowsy-Driver-Prevention/blob/main/Readme%20Images/EARoverTime.png">
 </p>
 
