@@ -11,6 +11,10 @@ Demonstrating the powerful life-saving potential of modern computer vision techn
   
 The program functions using the calculated Eye Aspect Ration (EAR). A unique threshold is calculated for each user, and the alarm is sounded should the current EAR value falls below that threshold for more than a specified amount of time.
 
-  ![EARFormula](https://user-images.githubusercontent.com/52629191/103779462-b971f080-502b-11eb-8998-4199325f7890.png)
-  ![EARoverTime](https://user-images.githubusercontent.com/52629191/103779473-bb3bb400-502b-11eb-9ed9-8830d85868be.png)
+
+<p align="center">
+  <img src="https://github.com/dr271/Drowsy-Driver-Prevention/blob/main/Readme%20Images/EARFormula.png">
+  <img src="https://github.com/dr271/Drowsy-Driver-Prevention/blob/main/Readme%20Images/EARoverTime.png">
+</p>
+
 
