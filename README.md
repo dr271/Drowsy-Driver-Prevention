@@ -6,10 +6,8 @@ Demonstrating the powerful life-saving potential of modern computer vision techn
   ![Figure 7](https://user-images.githubusercontent.com/52629191/103778959-f2f62c00-502a-11eb-896a-ed06d7cabf8b.png)
   ![Alarm Triggered](https://user-images.githubusercontent.com/52629191/103779163-44062000-502b-11eb-9714-febb4e60d554.png)
   
-<p align="center">
-  
-  ![EARFormula](https://user-images.githubusercontent.com/52629191/103779462-b971f080-502b-11eb-8998-4199325f7890.png)
-</p>
+The program functions using the calculated Eye Aspect Ration (EAR). A unique threshold is calculated for each user, and the alarm is sounded should the current EAR value falls below that threshold for more than a specified amount of time.
 
+  ![EARFormula](https://user-images.githubusercontent.com/52629191/103779462-b971f080-502b-11eb-8998-4199325f7890.png)
   ![EARoverTime](https://user-images.githubusercontent.com/52629191/103779473-bb3bb400-502b-11eb-9ed9-8830d85868be.png)
 
