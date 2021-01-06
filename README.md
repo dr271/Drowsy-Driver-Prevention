@@ -23,4 +23,4 @@ The program functions by using a Histogram of Gradients (HOG) descriptors as fea
 </p>
 
 
-This merely scratches the surface as a high-level overview of how it functions. Please see the writeup to look further in to any particular areas that may be of interest to you.
+This merely scratches the surface as a high-level overview of how it functions. Please see the writeup to look further in to any particular areas that may be of interest to you, as well as details on all references used.
