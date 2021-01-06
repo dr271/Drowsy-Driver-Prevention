@@ -7,6 +7,7 @@ Demonstrating the powerful life-saving potential of modern computer vision techn
   ![Alarm Triggered](https://user-images.githubusercontent.com/52629191/103779163-44062000-502b-11eb-9714-febb4e60d554.png)
   
 <p align="center">
+  
   ![EARFormula](https://user-images.githubusercontent.com/52629191/103779462-b971f080-502b-11eb-8998-4199325f7890.png)
 </p>
 
