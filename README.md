@@ -9,7 +9,7 @@ Demonstrating the powerful life-saving potential of modern computer vision techn
   <img src="https://github.com/dr271/Drowsy-Driver-Prevention/blob/main/Readme%20Images/Alarm%20Triggered.png">
 </p>
   
-The program functions using the calculated Eye Aspect Ration (EAR). A unique threshold is calculated for each user, and the alarm is sounded should the current EAR value falls below that threshold for more than a specified amount of time.
+The program functions by using a Histogram of Gradients (HOG) descriptors as feature inputs in to an SVM classifier for the purpose of facial recognition. A facial landmark predictor (courtesey of dlib) is then used to locate the eyes. A unique Eye Aspect Ratio (explained below) threshold is calculated for each user, and the alarm is sounded should the current EAR value falls below that of the threshold for more than a specified amount of time.
 
 
 <p align="center">
@@ -17,4 +17,4 @@ The program functions using the calculated Eye Aspect Ration (EAR). A unique thr
   <img src="https://github.com/dr271/Drowsy-Driver-Prevention/blob/main/Readme%20Images/EARoverTime.png">
 </p>
 
-
+This merely scratches the surface as a high-level overview of how it functions. Please see the writeup to look further in to any particular areas that may be of interest to you.
